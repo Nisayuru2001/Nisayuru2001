@@ -110,15 +110,7 @@
  
 </div>
  
-<div align="center">
- 
-### 🌟 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
- 
----
-[![](https://visitcount.itsvg.in/api?id=nisayuru&icon=5&color=1)](https://visitcount.itsvg.in)
- 
-</div>
+
  
 <div align="center">
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
