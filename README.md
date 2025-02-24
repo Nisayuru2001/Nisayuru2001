@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
  
 - 🚀 Passionate **Full Stack Developer** creating innovative solutions
-- 🌍 Based in **Sri Lanka** 🇱🇰, known as **"Kavi"** in the dev community
+- 🌍 Based in **Sri Lanka** 🇱🇰, known as **"Nisayuru"** in the dev community
 - 🎓 Studying **Computer Science**, currently exploring **Advanced Database Concepts**
 - 💡 Interests: **Software Architecture, Cloud Computing, AI/ML**
 - 🔥 Life motto: *Code with passion, debug with patience ⚡*
@@ -88,25 +88,25 @@
  
 <div align="center">
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavinga17)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kavinga17)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavinga17)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kavingaaluvihare2001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nisayuru)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nisayuru)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nisayuru)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nisayurusandaneth2001@gmail.com)
  
 </div>
  
 ## 📊 GitHub Stats
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kavinga17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinga17&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinga17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=nisayuru&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nisayuru&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisayuru&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
  
 ## 🏆 GitHub Trophies
 <div align="center">
  
-![](https://github-profile-trophy.vercel.app/?username=kavinga17&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nisayuru&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
  
 </div>
  
@@ -116,7 +116,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
  
 ---
-[![](https://visitcount.itsvg.in/api?id=kavinga17&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nisayuru&icon=5&color=1)](https://visitcount.itsvg.in)
  
 </div>
  
@@ -124,4 +124,4 @@
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-</div>
+</div> 
