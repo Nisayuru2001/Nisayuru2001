@@ -1,7 +1,7 @@
 <div align="center">
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nisayuru%20Sandaneth&fontSize=70&animation=fadeIn&fontAlignY=35)
- 
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+  <h1 style="font-size: 70px; font-weight: bold; color: white;">Nisayuru Sandaneth</h1>
+  
+  <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
  
 # 🚀 Full-Stack Developer | Tech Enthusiast | Code Artisan
  
