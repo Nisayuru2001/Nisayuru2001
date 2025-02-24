@@ -1,5 +1,5 @@
 <div align="center">
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nisayuru%20Sandaneth&fontSize=70&animation=fadeIn&fontAlignY=35)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nisayuru%20Sandaneth&fontSize=70&animation=blink&fontAlignY=40&fontColor=ffffff&textColor=ffffff)
 </div>
 
 <div align="center">
