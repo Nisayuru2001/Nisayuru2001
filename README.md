@@ -2,11 +2,11 @@
   <h1 style="font-size: 70px; font-weight: bold; color: white;">Nisayuru Sandaneth</h1>
   
   <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
- 
-# 🚀 Full-Stack Developer | Tech Enthusiast | Code Artisan
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Building+the+Future%2C+One+Line+at+a+Time;Passionate+Full-Stack+Developer;Learning+%26+Growing+Every+Day)](https://git.io/typing-svg)
- 
+  
+  # 🚀 Full-Stack Developer | Tech Enthusiast | Code Artisan
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Building+the+Future%2C+One+Line+at+a+Time;Passionate+Full-Stack+Developer;Learning+%26+Growing+Every+Day)](https://git.io/typing-svg)
+  
 </div>
  
 ## 🎯 Currently Working On
