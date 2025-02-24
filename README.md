@@ -6,7 +6,7 @@
   🚀 Full-Stack Developer | Tech Enthusiast | Code Artisan
 </div>
 
-
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 ## 🚀 Currently Working On
 - 🔧 **AutoSched Project** - Leveraging MERN Stack for innovative scheduling solutions.
 - 📚 Diving deep into **Oracle** and object-relational database concepts.
