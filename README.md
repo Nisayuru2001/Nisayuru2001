@@ -6,8 +6,6 @@
   🚀 Full-Stack Developer | Tech Enthusiast | Code Artisan
 </div>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Building+the+Future%2C+One+Line+at+a+Time;Passionate+Full-Stack+Developer;Learning+%26+Growing+Every+Day)](https://git.io/typing-svg)
-</div>
 
 ## 🚀 Currently Working On
 - 🔧 **AutoSched Project** - Leveraging MERN Stack for innovative scheduling solutions.
